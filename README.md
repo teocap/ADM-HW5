@@ -20,7 +20,7 @@ In this repository you can find the next folders/files:
 #### 1. `main.ipynb` file
 
 > This file contains the solution to all the 6 questions (and its corresponding literals) required for the activity: Explore Wikipedia's hyperlinks network.
-- To visualize correctly the content of this Notebook we recommend you access to [THIS]() page or to download the Notebook in your PC and open it from Anaconda. It is mainly because from GitHub you can't see the plots made with `Plotly express`.
+- To visualize correctly the content of this Notebook we recommend you access to [THIS](https://nbviewer.jupyter.org/github/teocap/ADM-HW5/blob/main/main.ipynb) page or to download the Notebook in your PC and open it from Anaconda. It is mainly because from GitHub you can't see the plots made with `Plotly express`.
 
 #### 2. `our_functions.py` file
 > This file contains the functions that we created to execute some chunks of the code, keeping it tidy and easy-to-read.
